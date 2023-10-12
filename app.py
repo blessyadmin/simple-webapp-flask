@@ -2,7 +2,7 @@ import os
 from flask import Flask
 app = Flask(__name__)
 
-gi@app.route("/")
+@app.route("/")
 def main():
     return "Welcome!"
 
