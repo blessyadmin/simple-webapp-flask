@@ -12,7 +12,7 @@ def hello():
 
     @app.route("/who are you")
 def main():
-    return "iam ARUNA!"
+    return "iam ARUNA"
 
     @app.route('/where r u from'?)
 def hello():
