@@ -14,7 +14,7 @@ def hello():
 def main():
     return "iam ARUNA"
 
-    @app.route('/where r u from'?)
+    @app.route('/where r u from')
 def hello():
     return 'IAM FROM VIZAG'
 
